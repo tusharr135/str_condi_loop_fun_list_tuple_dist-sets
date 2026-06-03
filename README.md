@@ -20,10 +20,20 @@ This repository contains Python learning materials and code examples for **Chapt
 - Grade calculator based on marks
 - Number classification (Positive, Zero, Negative)
 
-### 4. **Data Structures**
+### 4. **Loops**
+- Loop constructs and iteration patterns
+- Used for repeating code blocks and processing collections
+
+### 5. **Functions**
+- Function definition and calls
+- Parameters and return values
+- Code reusability and modularity
+
+### 6. **Data Structures**
 - **Lists**: Creation, indexing, slicing, built-in methods (`len()`, `max()`, `min()`)
 - **Tuples**: Immutable sequences, indexing, methods like `index()`
-- **Dictionaries**: Key-value pairs (file truncated)
+- **Dictionaries**: Key-value pairs for storing related data
+- **Sets**: Unique collection of elements
 
 ## Files
 
@@ -48,10 +58,12 @@ This repository contains Python learning materials and code examples for **Chapt
 
 By studying this chapter, you will learn:
 - How to work with strings and their methods
-- How to implement conditional logic
-- How to use lists and tuples for data storage
+- How to implement conditional logic with if/elif/else
+- How to use loops for iteration and repetition
+- How to define and call functions
+- How to use lists, tuples, dictionaries, and sets for data storage
 - How to create interactive programs with user input
-- How to apply loops and iterations (covered in the code)
+- How to solve real-world problems (emoji converter, grade calculator)
 
 ## Notes
 
